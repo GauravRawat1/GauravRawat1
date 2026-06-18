@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Data Analytics Projects.<br>I’m looking to collaborate on Python and Data Analytics Projects.<br>I’m looking for help with Power BI, Advanced SQL, and Dashboard Development.<br>I’m currently learning SQL, Data Analysis, and Data Visualization.<br>Ask me about Python, Pandas, NumPy, Matplotlib, and Data Cleaning.<br>Fun fact: Every dataset tells a story—I enjoy finding and visualizing those stories through data..
+I’m currently working on Data Analytics Projects.<br>I’m looking to collaborate on Python and Data Analytics Projects.<br>I’m looking for help with Power BI, Advanced SQL, and Dashboard Development.<br>Ask me about Python, Pandas, NumPy, Matplotlib, and Data Cleaning.<br>Fun fact: Every dataset tells a story—I enjoy finding and visualizing those stories through data..
 
 
 ## 🌐 Socials:
