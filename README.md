@@ -3,7 +3,9 @@ I’m currently working on Data Analytics Projects.<br>I’m looking to collabor
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-rawat-bca) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravrawatwd@gmail.com) ## 🌐 Portfolio:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-rawat-bca) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravrawatwd@gmail.com) 
+
+🌐 Portfolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://gaurav-portfolio-sandy-ten.vercel.app)
 
 # 💻 Tech Stack:
