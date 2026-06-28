@@ -11,7 +11,6 @@ I’m currently working on Data Analytics Projects.<br>I’m looking to collabor
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=GauravRawat1&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=GauravRawat1&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GauravRawat1&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GauravRawat1&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
