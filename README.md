@@ -650,11 +650,12 @@ Building practical analytics skills through consistent hands-on projects, busine
 ## 🛠 Technologies Used
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 <br>
   
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,powerbi,tableau"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,tableau"/>
 <br>
 
 <br>
