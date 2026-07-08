@@ -91,45 +91,58 @@ I enjoy working across the complete analytics workflow—from cleaning and explo
 <p align="center">
 <img src="assets/divider.svg" width="100%">
 </p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 ### 💻 Programming Languages
+  
 <p align="center">
+  
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 </td>
 <td width="50%" valign="top">
+  
 ### 📚 Python Libraries
 <p align="center">
+  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib"/>
 </p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+  
 ### 📊 Data Visualization
 <p align="center">
+  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau"/>
 <br><br>
+
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 </td>
 <td width="50%" valign="top">
+  
 ### 🗄 Database
 <p align="center">
+  
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+  
 ### ⚙️ Development Tools
 <p align="center">
+  
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 </td>
 <td width="50%" valign="top">
+  
 ### 🧠 Core Skills
 
 - 📊 Data Analytics
