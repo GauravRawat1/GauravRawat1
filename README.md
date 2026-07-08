@@ -865,18 +865,6 @@ Whether it's analyzing data, building dashboards, solving business problems, or 
 <img src="assets/divider.svg" width="100%">
 </p>
 
-# 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/GauravRawat1/GauravRawat1/main/github-metrics.svg" alt="GitHub Metrics"/>
-
-</p>
-
-<p align="center">
-<img src="assets/divider.svg" width="100%">
-</p>
-
 ## 💙 Thanks for Visiting
 
 <p align="center">
