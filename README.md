@@ -20,7 +20,7 @@
 <br><br>
 
 <a href="https://gaurav-portfolio-sandy-ten.vercel.app/" target="_blank">
-<img src="assets/banner.png" width="100%" alt="Gaurav Rawat Banner"/>
+
 </a>
 
 <br><br>
