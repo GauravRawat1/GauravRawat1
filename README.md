@@ -649,9 +649,11 @@ Building practical analytics skills through consistent hands-on projects, busine
 
 ## 🛠 Technologies Used
 
+
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
+
 <br>
   
 <br>
