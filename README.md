@@ -91,10 +91,10 @@ I enjoy working across the complete analytics workflow—from cleaning and explo
 <p align="center">
 <img src="assets/divider.svg" width="100%">
 </p>
-
 <table>
 <tr>
 <td width="50%" valign="top">
+  
 ### 💻 Programming Languages
   
 <p align="center">
