@@ -185,17 +185,13 @@ I enjoy working across the complete analytics workflow—from cleaning and explo
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GauravRawat1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=GauravRawat1&theme=github-dark-blue&hide_border=true"/>
-
 </p>
 
 <br>
 
-## 🧠 Languages & Development Activity
+## 🧠Development Activity
 
 <p align="center">
-
-
 
 </p>
 
@@ -206,15 +202,6 @@ I enjoy working across the complete analytics workflow—from cleaning and explo
 </p>
 
 <br>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GauravRawat1&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
 <br>
 
 ## 📌 GitHub Overview
