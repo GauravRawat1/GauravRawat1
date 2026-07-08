@@ -21,17 +21,6 @@
 
 <a href="https://gaurav-portfolio-sandy-ten.vercel.app/" target="_blank"></a>
 <br><br>
-<p align="center">
-
-<a href="#-about-me">About Me</a> •
-<a href="#-analytics-toolbox">Toolbox</a> •
-<a href="#-github-analytics">Analytics</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-professional-certifications">Certificates</a> •
-<a href="#-100-days-of-data-analytics">100 Days</a> •
-<a href="#-connect-with-me">Contact</a>
-
-</p>
 
 </div>
 
