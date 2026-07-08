@@ -182,8 +182,6 @@ I enjoy working across the complete analytics workflow—from cleaning and explo
 # 📊 GitHub Analytics 
 <p align="center"> 
   
-
-
 <img width="49%" src="https://streak-stats.demolab.com?user=GauravRawat1&theme=github-dark-blue&hide_border=true"/>
 </p> 
 <br>
@@ -199,7 +197,6 @@ I enjoy working across the complete analytics workflow—from cleaning and explo
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravRawat1&theme=github-dark&hide_border=true&area=true"/>
 
 </p>
-
 <br>
 <br>
 
