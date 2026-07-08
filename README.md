@@ -452,14 +452,6 @@ Real-world Analytics
 
 <p align="center">
 
-Industry-recognized certifications and virtual job simulations demonstrating practical skills in Data Analytics, SQL, Python, Business Intelligence and Data Visualization.
-
-</p>
-
-# 🏆 Professional Certifications
-
-<p align="center">
-
 Industry-recognized certifications and virtual job simulations that validate my practical knowledge in Data Analytics, SQL, Python, Business Intelligence, and real-world problem solving.
 
 </p>
