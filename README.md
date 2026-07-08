@@ -231,25 +231,25 @@ I enjoy working across the complete analytics workflow—from cleaning and explo
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GauravRawat1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GauravRawat1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=GauravRawat1&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
+<br>
+
+## 🧠 Languages & Development Activity
+
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravRawat1&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravRawat1&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </p>
 
-<br>
-
-## 📈 Contribution Activity
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravRawat1&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravRawat1&theme=github-dark&hide_border=true&area=true"/>
 
 </p>
 
@@ -259,17 +259,7 @@ I enjoy working across the complete analytics workflow—from cleaning and explo
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GauravRawat1&theme=github_dark&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
-<br>
-
-## 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/GauravRawat1/GauravRawat1/main/github-metrics.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GauravRawat1&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
