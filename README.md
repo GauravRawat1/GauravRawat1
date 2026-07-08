@@ -19,12 +19,8 @@
 
 <br><br>
 
-<a href="https://gaurav-portfolio-sandy-ten.vercel.app/" target="_blank">
-
-</a>
-
+<a href="https://gaurav-portfolio-sandy-ten.vercel.app/" target="_blank"></a>
 <br><br>
-
 <p align="center">
 
 <a href="#-about-me">About Me</a> •
