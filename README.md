@@ -2,7 +2,6 @@
 
 <a id="top"></a>
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:0D1117,100:F4A6C1&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <br>
@@ -21,7 +20,6 @@
 
 <a href="https://gaurav-portfolio-sandy-ten.vercel.app/" target="_blank"></a>
 <br><br>
-
 </div>
 
 <p align="center">
