@@ -195,7 +195,7 @@ I enjoy working across the complete analytics workflow—from cleaning and explo
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravRawat1&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
 
 </p>
 
