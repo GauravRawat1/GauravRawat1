@@ -651,15 +651,13 @@ Building practical analytics skills through consistent hands-on projects, busine
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
-
 <br>
+  
 <br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,powerbi,tableau"/>
+<br>
 
 <br>
-<br>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
 </p>
 
 <br>
